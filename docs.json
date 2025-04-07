@@ -15,7 +15,14 @@
         "pages": [
           "introduction",
           "quickstart",
-          "development"
+          "development"        
+        ]
+      },
+      {
+        "group": "Integrations",
+        "pages": [
+          "inegrations/tyro",
+          "inegrations/linkly"
         ]
       },
       {
