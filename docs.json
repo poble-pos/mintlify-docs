@@ -15,25 +15,21 @@
         "pages": [
           "introduction",
           "quickstart",
-          "development"
+          "development"        
         ]
       },
       {
-        "group": "Essentials",
+        "group": "Integrations",
         "pages": [
-          "essentials/markdown",
-          "essentials/code",
-          "essentials/images",
-          "essentials/settings",
-          "essentials/navigation",
-          "essentials/reusable-snippets"
+          "integrations/tyro",
+          "integrations/linkly"
         ]
       }
     ]
   },
   "logo": {
     "light": "/logo/logo.png",
-    "dark": "/logo/log.png"
+    "dark": "/logo/logo.png"
   },
   "navbar": {},
   "footer": {}

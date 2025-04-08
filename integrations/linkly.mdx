@@ -1,0 +1,67 @@
+---
+title: "Linkly Integration"
+description: "Learn how to integrate Linkly EFTPOS with the POBLE POS system to enable seamless in-store payments."
+---
+
+## Prerequisites
+
+Before starting the integration, ensure the following are in place:
+
+- An **EFTPOS terminal compatible with Linkly Cloud** (e.g., Commonwealth Bank, NAB, or ANZ)
+- Valid **Linkly Cloud credentials**
+- **POBLE POS** installed and configured
+- A stable internet connection
+
+### Don't have a Linkly Cloud merchant facility enabled?
+
+Please contact your EFTPOS provider to get set up.
+
+---
+
+## Step-by-Step Integration
+
+### 1. Enable Cloud Mode on the EFTPOS Terminal
+
+- Press **Func**, then enter **7410** on the terminal.
+- Select **2. Terminal Set Up**.
+- Press **Begin**.
+- Select **Cloud Comms**.
+- The terminal will test the network connection.
+- Once the terminal displays **Setup Complete**, press **OK**.
+- Press **Cancel** to return to the home screen.
+- The terminal will prompt for **PIN Pad Pairing Code** generation.
+- Press **Enter** to generate a new pairing code.
+- A 6-digit pairing code will be displayed on the terminal.
+
+  > ⏱ Note: You have 180 seconds to complete pairing on the POS. If it times out, press **Enter** again to generate a new code.
+
+### 2. Pair the Terminal in POBLE POS
+
+- Navigate to **Settings \> Payment Settings \> Linkly**.
+- Toggle on **Pair Linkly Terminal**.
+- Enter your **Username**, **Password**, and the **Pairing Code** generated from the terminal.
+- Click **Pair** to complete the setup.
+
+---
+
+## Re-Pairing the Terminal
+
+You will need to re-pair the terminal in the following cases:
+
+- Changes to your Linkly account credentials
+- Connecting the terminal to a different POS device
+
+### 1. Reset and Generate a New Pairing Code
+
+- Press **Func**, then enter **8880** on the terminal.
+- The terminal will prompt for PIN Pad Pairing Code generation.
+- Press **Enter** to generate a new 6-digit pairing code.
+
+### 2. Re-Pair in POBLE POS
+
+- Navigate to **Settings \> Payment Settings \> Linkly**.
+- Toggle on **Pair Linkly Terminal**.
+- Enter your **Username**, **Password**, and the **Pairing Code**.
+- Click **Pair** to reconnect the terminal.
+
+---
