@@ -24,6 +24,13 @@
           "integrations/tyro",
           "integrations/linkly"
         ]
+      },
+      {
+        "group": "How to get started",
+        "pages": [
+          "how-to-get-started/test1",
+          "how-to-get-started/test2"
+        ]
       }
     ]
   },
