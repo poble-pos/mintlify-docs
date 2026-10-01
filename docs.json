@@ -11,6 +11,47 @@
   "navigation": {
     "groups": [
       {
+        "group": "Welcome",
+        "pages": [
+          "poble-manual/index"
+        ]
+      },
+      {
+        "group": "Getting Started",
+        "pages": [
+          "poble-manual/getting-started/overview",
+          "poble-manual/getting-started/create-your-poble-account",
+          "poble-manual/getting-started/set-up-your-store",
+          "poble-manual/getting-started/choose-your-subscription-plan",
+          "poble-manual/getting-started/customise-with-add-ons",
+          "poble-manual/getting-started/enter-payment-details-start-trial"
+        ]
+      },
+      {
+        "group": "Company Settings",
+        "pages": [
+          "poble-manual/company-settings/overview",
+          "poble-manual/company-settings/manage-stores",
+          "poble-manual/company-settings/manage-admin-profiles",
+          "poble-manual/company-settings/change-admin-pin-code",
+          "poble-manual/company-settings/add-admins-manage-employees",
+          "poble-manual/company-settings/manage-permissions",
+          "poble-manual/company-settings/set-role-permissions",
+          "poble-manual/company-settings/add-your-logo-banner",
+          "poble-manual/company-settings/set-up-stripe-online-payments",
+          "poble-manual/company-settings/update-company-details"
+        ]
+      },
+      {
+        "group": "Store Settings",
+        "pages": [
+          "poble-manual/store-settings/overview",
+          "poble-manual/store-settings/business-hours",
+          "poble-manual/store-settings/business-hours-message",
+          "poble-manual/store-settings/deactivate-store"
+        ]
+      },
+      {
         "group": "Integrations",
         "pages": [
           "integrations/tyro",
