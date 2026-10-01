@@ -11,14 +11,6 @@
   "navigation": {
     "groups": [
       {
-        "group": "Get Started",
-        "pages": [
-          "introduction",
-          "quickstart",
-          "development"        
-        ]
-      },
-      {
         "group": "Integrations",
         "pages": [
           "integrations/tyro",
@@ -26,10 +18,11 @@
         ]
       },
       {
-        "group": "How to get started",
+        "group": "Get Started",
         "pages": [
-          "how-to-get-started/test1",
-          "how-to-get-started/test2"
+          "introduction",
+          "quickstart",
+          "development"
         ]
       }
     ]
