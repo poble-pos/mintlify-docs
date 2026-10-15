@@ -52,6 +52,48 @@
         ]
       },
       {
+        "group": "Menu Management",
+        "pages": [
+          "poble-manual/menu-management/overview",
+          {
+            "group": "Backoffice — Company",
+            "pages": [
+              "poble-manual/menu-management/company/access-menu-settings",
+              "poble-manual/menu-management/company/create-categories",
+              "poble-manual/menu-management/company/manage-items",
+              "poble-manual/menu-management/company/create-options"
+            ]
+          },
+          {
+            "group": "Backoffice — Store & Franchise",
+            "pages": [
+              "poble-manual/menu-management/store/access-menu",
+              "poble-manual/menu-management/store/create-categories",
+              "poble-manual/menu-management/store/manage-items"
+            ]
+          },
+          {
+            "group": "POS Device",
+            "pages": [
+              "poble-manual/menu-management/pos/open-menu-management",
+              "poble-manual/menu-management/pos/create-categories",
+              "poble-manual/menu-management/pos/manage-items",
+              "poble-manual/menu-management/pos/manage-options"
+            ]
+          },
+          {
+            "group": "Menu Configuration",
+            "pages": [
+              "poble-manual/menu-management/configuration/option-mapping",
+              "poble-manual/menu-management/configuration/printer-mapping",
+              "poble-manual/menu-management/configuration/prepaid-setup",
+              "poble-manual/menu-management/configuration/menu-layout",
+              "poble-manual/menu-management/configuration/discount-settings"
+            ]
+          }
+        ]
+      },
+      {
         "group": "Integrations",
         "pages": [
           "integrations/tyro",
