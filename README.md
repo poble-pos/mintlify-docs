@@ -1,32 +1,17 @@
-# Mintlify Starter Kit
+# POBLE Help Centre
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Customer documentation for POBLE, published at https://docs.poble.com.au/.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+## Edit documentation
 
-### Development
+Open the POBLE project in Mintlify, select Site, and choose the page to edit. Preview your changes, then select Publish. Mintlify saves published changes to this repository.
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+## Repository structure
 
-```
-npm i -g mintlify
-```
+- `poble-manual/`: account setup, company settings, store settings, and menu management guides.
+- `integrations/`: Tyro and Linkly integration guides.
+- `images/`: screenshots and guide images.
+- `logo/` and `icon.png`: site branding.
+- `docs.json`: site navigation and appearance.
 
-Run the following command at the root of your documentation (where docs.json is)
-
-```
-mintlify dev
-```
-
-### Publishing Changes
-
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
-
-#### Troubleshooting
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+The deployment branch is `main`. Changes pushed to that branch trigger a Mintlify deployment.
