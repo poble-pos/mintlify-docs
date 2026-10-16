@@ -1,0 +1,67 @@
+---
+title: "Linkly 集成"
+description: "将 Linkly EFTPOS 终端连接至 POBLE POS，以便在门店收款。"
+---
+
+## 准备事项
+
+开始集成前，请准备以下内容：
+
+- **兼容 Linkly Cloud 的 EFTPOS 终端**（例如 Commonwealth Bank、NAB 或 ANZ）
+- 有效的 **Linkly Cloud 登录凭据**
+- 已安装并配置好的 **POBLE POS**
+- 稳定的互联网连接
+
+### 尚未开通 Linkly Cloud 商户服务？
+
+请联系 EFTPOS 服务提供商开通。
+
+---
+
+## 集成步骤
+
+### 1. 在 EFTPOS 终端上启用 Cloud 模式
+
+- 在终端上按 **Func**，然后输入 **7410**。
+- 选择 **2. Terminal Set Up**。
+- 按 **Begin**。
+- 选择 **Cloud Comms**。
+- 终端将测试网络连接。
+- 显示 **Setup Complete** 后，按 **OK**。
+- 按 **Cancel** 返回主屏幕。
+- 终端将提示生成 **PIN Pad Pairing Code**。
+- 按 **Enter** 生成新的配对码。
+- 终端上将显示 6 位配对码。
+
+  > ⏱ 注意：请在 180 秒内完成 POS 配对。如果超时，请再次按 **Enter** 生成新码。
+
+### 2. 在 POBLE POS 中配对终端
+
+- 前往 **Settings \> Payment Settings \> Linkly**。
+- 打开 **Pair Linkly Terminal**。
+- 输入 **Username**、**Password** 以及终端生成的 **Pairing Code**。
+- 选择 **Pair** 完成设置。
+
+---
+
+## 重新配对终端
+
+以下情况需要重新配对终端：
+
+- Linkly 账户登录凭据发生变更
+- 将终端连接至另一台 POS 设备
+
+### 1. 重置并生成新配对码
+
+- 在终端上按 **Func**，然后输入 **8880**。
+- 终端将提示生成 PIN Pad 配对码。
+- 按 **Enter** 生成新的 6 位配对码。
+
+### 2. 在 POBLE POS 中重新配对
+
+- 前往 **Settings \> Payment Settings \> Linkly**。
+- 打开 **Pair Linkly Terminal**。
+- 输入 **Username**、**Password** 和 **Pairing Code**。
+- 选择 **Pair** 重新连接终端。
+
+---

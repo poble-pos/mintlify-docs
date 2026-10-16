@@ -1,0 +1,290 @@
+[
+  {
+    "source": "integrations/linkly.mdx",
+    "source_sha256": "66c14d861f476fd4da5b5eff23e37996a60fba9a9abe479ff01d673776d2ec7d",
+    "ko": "ko/integrations/linkly.mdx",
+    "zh": "zh/integrations/linkly.mdx"
+  },
+  {
+    "source": "integrations/tyro.mdx",
+    "source_sha256": "a6d69536b2f9a77ff4891bed5800a6491c407ef9728f0d0820ab7c684f4e9550",
+    "ko": "ko/integrations/tyro.mdx",
+    "zh": "zh/integrations/tyro.mdx"
+  },
+  {
+    "source": "poble-manual/company-settings/add-admins-manage-employees.mdx",
+    "source_sha256": "ce8db479fffaef38caafb789fe41aec0db68b6828914bf48c4d1cdef0b63aafb",
+    "ko": "ko/poble-manual/company-settings/add-admins-manage-employees.mdx",
+    "zh": "zh/poble-manual/company-settings/add-admins-manage-employees.mdx"
+  },
+  {
+    "source": "poble-manual/company-settings/add-your-logo-banner.mdx",
+    "source_sha256": "f74db45eac0d303a997d8533ff37760c0f7ce8b68c390b9d4d4f002f67808017",
+    "ko": "ko/poble-manual/company-settings/add-your-logo-banner.mdx",
+    "zh": "zh/poble-manual/company-settings/add-your-logo-banner.mdx"
+  },
+  {
+    "source": "poble-manual/company-settings/change-admin-pin-code.mdx",
+    "source_sha256": "048f56810a3a471ce0c402a3aa54526262c18700566f45c7caf8eba6a5ce7e78",
+    "ko": "ko/poble-manual/company-settings/change-admin-pin-code.mdx",
+    "zh": "zh/poble-manual/company-settings/change-admin-pin-code.mdx"
+  },
+  {
+    "source": "poble-manual/company-settings/manage-admin-profiles.mdx",
+    "source_sha256": "c2b22e182ae58dacbc8b71e2dd748f8eb55f0c9b7e9b7ef71db11a30a6a73118",
+    "ko": "ko/poble-manual/company-settings/manage-admin-profiles.mdx",
+    "zh": "zh/poble-manual/company-settings/manage-admin-profiles.mdx"
+  },
+  {
+    "source": "poble-manual/company-settings/manage-permissions.mdx",
+    "source_sha256": "25eb4e4869c353e416e40c550de6c5d2d2b76554bf66a4cae89e660fa944488b",
+    "ko": "ko/poble-manual/company-settings/manage-permissions.mdx",
+    "zh": "zh/poble-manual/company-settings/manage-permissions.mdx"
+  },
+  {
+    "source": "poble-manual/company-settings/manage-stores.mdx",
+    "source_sha256": "22ef1149a0f9dc2260575496087e94cfea67c5acc9897e32a633f15b34d49fbe",
+    "ko": "ko/poble-manual/company-settings/manage-stores.mdx",
+    "zh": "zh/poble-manual/company-settings/manage-stores.mdx"
+  },
+  {
+    "source": "poble-manual/company-settings/overview.mdx",
+    "source_sha256": "6084323bd3a2cfc9f2a455e1419a9f1a035dc3086e46a963a13f16abe3115211",
+    "ko": "ko/poble-manual/company-settings/overview.mdx",
+    "zh": "zh/poble-manual/company-settings/overview.mdx"
+  },
+  {
+    "source": "poble-manual/company-settings/set-role-permissions.mdx",
+    "source_sha256": "c7dc0c7b2b241b449a5322b1057a47ad198ea34cbd40ba3032658add285570c7",
+    "ko": "ko/poble-manual/company-settings/set-role-permissions.mdx",
+    "zh": "zh/poble-manual/company-settings/set-role-permissions.mdx"
+  },
+  {
+    "source": "poble-manual/company-settings/set-up-stripe-online-payments.mdx",
+    "source_sha256": "4072768ccafb181f7b82b74206dbf9f714f8a0c015e617d1b0dfd484969457ff",
+    "ko": "ko/poble-manual/company-settings/set-up-stripe-online-payments.mdx",
+    "zh": "zh/poble-manual/company-settings/set-up-stripe-online-payments.mdx"
+  },
+  {
+    "source": "poble-manual/company-settings/update-company-details.mdx",
+    "source_sha256": "0b400a9ca549885b0631a7680019b3da5d7e3dceb7800521c2ef45e445671f72",
+    "ko": "ko/poble-manual/company-settings/update-company-details.mdx",
+    "zh": "zh/poble-manual/company-settings/update-company-details.mdx"
+  },
+  {
+    "source": "poble-manual/getting-started/choose-your-subscription-plan.mdx",
+    "source_sha256": "82b052b2fd5544f31668f0e17661e5977197a08803a5ee7fd63ed5cc2ff25dbe",
+    "ko": "ko/poble-manual/getting-started/choose-your-subscription-plan.mdx",
+    "zh": "zh/poble-manual/getting-started/choose-your-subscription-plan.mdx"
+  },
+  {
+    "source": "poble-manual/getting-started/create-your-poble-account.mdx",
+    "source_sha256": "aeb21471d59437d4e1be0957f0c40c7c04dc084d499631bbe4eb1c2ccaf733c4",
+    "ko": "ko/poble-manual/getting-started/create-your-poble-account.mdx",
+    "zh": "zh/poble-manual/getting-started/create-your-poble-account.mdx"
+  },
+  {
+    "source": "poble-manual/getting-started/customise-with-add-ons.mdx",
+    "source_sha256": "4d291e056eeb604d0eb65c44cd8887cba9f5b27d1f1db9dc93844ee23f3b33ff",
+    "ko": "ko/poble-manual/getting-started/customise-with-add-ons.mdx",
+    "zh": "zh/poble-manual/getting-started/customise-with-add-ons.mdx"
+  },
+  {
+    "source": "poble-manual/getting-started/enter-payment-details-start-trial.mdx",
+    "source_sha256": "0bb5d5cfd6e6be1d11100defde4d26b199529d47fff0bfc7146f2f06a557ecf8",
+    "ko": "ko/poble-manual/getting-started/enter-payment-details-start-trial.mdx",
+    "zh": "zh/poble-manual/getting-started/enter-payment-details-start-trial.mdx"
+  },
+  {
+    "source": "poble-manual/getting-started/overview.mdx",
+    "source_sha256": "721111ba64a3aae1e2df0da9f30227632940461b8e7446ca807cdbe819357d03",
+    "ko": "ko/poble-manual/getting-started/overview.mdx",
+    "zh": "zh/poble-manual/getting-started/overview.mdx"
+  },
+  {
+    "source": "poble-manual/getting-started/set-up-your-store.mdx",
+    "source_sha256": "d7fb2b80391cfb8a184e777bdfd82a7c17c38af72691c5e625d8d1f28aca4f1b",
+    "ko": "ko/poble-manual/getting-started/set-up-your-store.mdx",
+    "zh": "zh/poble-manual/getting-started/set-up-your-store.mdx"
+  },
+  {
+    "source": "poble-manual/index.mdx",
+    "source_sha256": "c4678e5df9ed4afd176a182bbbc2ddf02629ca030900d88609f419df47484883",
+    "ko": "ko/poble-manual/index.mdx",
+    "zh": "zh/poble-manual/index.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/company/access-menu-settings.mdx",
+    "source_sha256": "71313832fc928e113ba35d6d0f6427c094d8cc34f9417b19905abdf72199746e",
+    "ko": "ko/poble-manual/menu-management/company/access-menu-settings.mdx",
+    "zh": "zh/poble-manual/menu-management/company/access-menu-settings.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/company/create-categories.mdx",
+    "source_sha256": "927d621b1365517288c4571d5750eabcb2679c2606d2bc176f4ec435f563c5a4",
+    "ko": "ko/poble-manual/menu-management/company/create-categories.mdx",
+    "zh": "zh/poble-manual/menu-management/company/create-categories.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/company/create-options.mdx",
+    "source_sha256": "e010b19e50f76d6b033a8b878dd66b3d69139ff45a34042c48c5fe7aae419b33",
+    "ko": "ko/poble-manual/menu-management/company/create-options.mdx",
+    "zh": "zh/poble-manual/menu-management/company/create-options.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/company/manage-items.mdx",
+    "source_sha256": "6c70df2a46bfd2a666dd3b34c1ae6b9d4fc8d2c21d1c1866fe2c9cf7043c36e9",
+    "ko": "ko/poble-manual/menu-management/company/manage-items.mdx",
+    "zh": "zh/poble-manual/menu-management/company/manage-items.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/configuration/discount-settings.mdx",
+    "source_sha256": "0b6c6e632c2e7093d87c8565f9352d8084613b0d6f26365586bd382d908c6677",
+    "ko": "ko/poble-manual/menu-management/configuration/discount-settings.mdx",
+    "zh": "zh/poble-manual/menu-management/configuration/discount-settings.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/configuration/menu-layout.mdx",
+    "source_sha256": "0b4cd74a7f22aaea0c4e42db458ec979c2b6cedb29fc6c6c94e856421d67ff59",
+    "ko": "ko/poble-manual/menu-management/configuration/menu-layout.mdx",
+    "zh": "zh/poble-manual/menu-management/configuration/menu-layout.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/configuration/option-mapping.mdx",
+    "source_sha256": "4e0f063115548e9de65b9b6bf47af87176eea0fc89fc9bf3814ef1de96d97112",
+    "ko": "ko/poble-manual/menu-management/configuration/option-mapping.mdx",
+    "zh": "zh/poble-manual/menu-management/configuration/option-mapping.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/configuration/prepaid-setup.mdx",
+    "source_sha256": "5b90b1a3c7d383395948c0bfeb341e0739fcc201b20be02d4124e367cff405c0",
+    "ko": "ko/poble-manual/menu-management/configuration/prepaid-setup.mdx",
+    "zh": "zh/poble-manual/menu-management/configuration/prepaid-setup.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/configuration/printer-mapping.mdx",
+    "source_sha256": "727425d2437c79e27a360225eca80f61cd2bdb67492b3abc8af5cfa3a6d685de",
+    "ko": "ko/poble-manual/menu-management/configuration/printer-mapping.mdx",
+    "zh": "zh/poble-manual/menu-management/configuration/printer-mapping.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/overview.mdx",
+    "source_sha256": "1644745aa34e3d33a14f80a1e0728a49c6e31eef93dbf82fc2478bee8803bbde",
+    "ko": "ko/poble-manual/menu-management/overview.mdx",
+    "zh": "zh/poble-manual/menu-management/overview.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/pos/create-categories.mdx",
+    "source_sha256": "911e6c6897f6b0e41b0d6cc6742e7cb0663d47917d370174c57ff827d4b1ff1e",
+    "ko": "ko/poble-manual/menu-management/pos/create-categories.mdx",
+    "zh": "zh/poble-manual/menu-management/pos/create-categories.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/pos/manage-items.mdx",
+    "source_sha256": "2c5d69f5c60ad487921eba1595436b98fc5b6d58fb5930d7cac7d14884509d46",
+    "ko": "ko/poble-manual/menu-management/pos/manage-items.mdx",
+    "zh": "zh/poble-manual/menu-management/pos/manage-items.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/pos/manage-options.mdx",
+    "source_sha256": "d09b76274b2a0e2d8c4c4d9a2ae3b53f5eba89bfb8082a2288bc42ae85c0a837",
+    "ko": "ko/poble-manual/menu-management/pos/manage-options.mdx",
+    "zh": "zh/poble-manual/menu-management/pos/manage-options.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/pos/open-menu-management.mdx",
+    "source_sha256": "6f9bad6240ffb92da2f0d983a269000963e07dd2f1fb06d0582bb34bf059519a",
+    "ko": "ko/poble-manual/menu-management/pos/open-menu-management.mdx",
+    "zh": "zh/poble-manual/menu-management/pos/open-menu-management.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/store/access-menu.mdx",
+    "source_sha256": "d5acf67bf284f558a4143c6d09424f072f87f6d71a923bf603bc97b4ecbf7e6e",
+    "ko": "ko/poble-manual/menu-management/store/access-menu.mdx",
+    "zh": "zh/poble-manual/menu-management/store/access-menu.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/store/create-categories.mdx",
+    "source_sha256": "b26ca00f447414700efb63f368c67832684943fc9d6c5cb9e65095939e51b991",
+    "ko": "ko/poble-manual/menu-management/store/create-categories.mdx",
+    "zh": "zh/poble-manual/menu-management/store/create-categories.mdx"
+  },
+  {
+    "source": "poble-manual/menu-management/store/manage-items.mdx",
+    "source_sha256": "4e0787cf2d504895d2551ea0eb8e608debfb9871153afd2007af85afc018597e",
+    "ko": "ko/poble-manual/menu-management/store/manage-items.mdx",
+    "zh": "zh/poble-manual/menu-management/store/manage-items.mdx"
+  },
+  {
+    "source": "poble-manual/sales-payments/cancel-order.mdx",
+    "source_sha256": "e230cecac4924182c88af63e7b9ffc6499fa4805f90a7831cee4e46640fca986",
+    "ko": "ko/poble-manual/sales-payments/cancel-order.mdx",
+    "zh": "zh/poble-manual/sales-payments/cancel-order.mdx"
+  },
+  {
+    "source": "poble-manual/sales-payments/change-quantity-void.mdx",
+    "source_sha256": "e08d5ade47956afd4b90d458ce5817324687119c747812864136b9e064e585fb",
+    "ko": "ko/poble-manual/sales-payments/change-quantity-void.mdx",
+    "zh": "zh/poble-manual/sales-payments/change-quantity-void.mdx"
+  },
+  {
+    "source": "poble-manual/sales-payments/checkout-payment.mdx",
+    "source_sha256": "4c7aabe60544665ad87fab978cd5f53cbf17a1301d18d282362e75a8eb3d4364",
+    "ko": "ko/poble-manual/sales-payments/checkout-payment.mdx",
+    "zh": "zh/poble-manual/sales-payments/checkout-payment.mdx"
+  },
+  {
+    "source": "poble-manual/sales-payments/item-discounts-notes.mdx",
+    "source_sha256": "c49cf96fdc7cd0803f0ece95f60954d3c51b1aeb7ff181cf49b2b0dd467cdf89",
+    "ko": "ko/poble-manual/sales-payments/item-discounts-notes.mdx",
+    "zh": "zh/poble-manual/sales-payments/item-discounts-notes.mdx"
+  },
+  {
+    "source": "poble-manual/sales-payments/overview.mdx",
+    "source_sha256": "2d64f4c8934bd52400e4850c9698e572e3790b0b165a47cd27a143ed25adeb50",
+    "ko": "ko/poble-manual/sales-payments/overview.mdx",
+    "zh": "zh/poble-manual/sales-payments/overview.mdx"
+  },
+  {
+    "source": "poble-manual/sales-payments/sales-screen.mdx",
+    "source_sha256": "7edbeb4738a3057bd35cbaa1e79c00bf0f624fdcc01344ead95b5011438590d6",
+    "ko": "ko/poble-manual/sales-payments/sales-screen.mdx",
+    "zh": "zh/poble-manual/sales-payments/sales-screen.mdx"
+  },
+  {
+    "source": "poble-manual/sales-payments/select-item-options.mdx",
+    "source_sha256": "491ae4ecb3eebca969229f1f26e54294d13e60d1a34311ec0c05ad655b9e8be5",
+    "ko": "ko/poble-manual/sales-payments/select-item-options.mdx",
+    "zh": "zh/poble-manual/sales-payments/select-item-options.mdx"
+  },
+  {
+    "source": "poble-manual/sales-payments/start-sales.mdx",
+    "source_sha256": "492181aacd64b9693f33ae7b18e7cf8627d7b31ccdeec5915187612f77d5bdad",
+    "ko": "ko/poble-manual/sales-payments/start-sales.mdx",
+    "zh": "zh/poble-manual/sales-payments/start-sales.mdx"
+  },
+  {
+    "source": "poble-manual/store-settings/business-hours-message.mdx",
+    "source_sha256": "a6b5d54d8765fa470318f31f0a7908abbe7c44e184446150256d1f632fa6c3e0",
+    "ko": "ko/poble-manual/store-settings/business-hours-message.mdx",
+    "zh": "zh/poble-manual/store-settings/business-hours-message.mdx"
+  },
+  {
+    "source": "poble-manual/store-settings/business-hours.mdx",
+    "source_sha256": "0baed382dcd6903c9f108ae6c53b2ea1ecec1e596079f5f20e1b958ddcb147f4",
+    "ko": "ko/poble-manual/store-settings/business-hours.mdx",
+    "zh": "zh/poble-manual/store-settings/business-hours.mdx"
+  },
+  {
+    "source": "poble-manual/store-settings/deactivate-store.mdx",
+    "source_sha256": "bede7601a333a6a82ba3d371605465e0c85df0eb99c7aa3b35020240aa6bbf29",
+    "ko": "ko/poble-manual/store-settings/deactivate-store.mdx",
+    "zh": "zh/poble-manual/store-settings/deactivate-store.mdx"
+  },
+  {
+    "source": "poble-manual/store-settings/overview.mdx",
+    "source_sha256": "7941db3a36b7507276793ef2a556c8dd5a2f7e40e38af391aaf19fd891eebf09",
+    "ko": "ko/poble-manual/store-settings/overview.mdx",
+    "zh": "zh/poble-manual/store-settings/overview.mdx"
+  }
+]

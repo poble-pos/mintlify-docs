@@ -1,0 +1,67 @@
+---
+title: "Linkly 연동"
+description: "Linkly EFTPOS 단말기를 POBLE POS와 연결해 매장 결제를 사용할 수 있도록 설정합니다."
+---
+
+## 준비 사항
+
+연동을 시작하기 전에 다음을 준비하세요.
+
+- **Linkly Cloud 호환 EFTPOS 단말기**(예: Commonwealth Bank, NAB, ANZ)
+- 유효한 **Linkly Cloud 로그인 정보**
+- 설치 및 설정을 완료한 **POBLE POS**
+- 안정적인 인터넷 연결
+
+### Linkly Cloud 가맹점 서비스가 활성화되어 있지 않나요?
+
+EFTPOS 서비스 제공업체에 문의해 설정하세요.
+
+---
+
+## 단계별 연동
+
+### 1. EFTPOS 단말기에서 Cloud 모드 활성화
+
+- 단말기에서 **Func**를 누른 뒤 **7410**을 입력하세요.
+- **2. Terminal Set Up**을 선택하세요.
+- **Begin**을 누르세요.
+- **Cloud Comms**를 선택하세요.
+- 단말기가 네트워크 연결을 점검합니다.
+- **Setup Complete**가 표시되면 **OK**를 누르세요.
+- **Cancel**을 눌러 홈 화면으로 돌아가세요.
+- 단말기에 **PIN Pad Pairing Code** 생성 안내가 표시됩니다.
+- **Enter**를 눌러 새 페어링 코드를 생성하세요.
+- 단말기에 6자리 페어링 코드가 표시됩니다.
+
+  > ⏱ 참고: POS에서 180초 안에 페어링을 완료하세요. 시간이 초과되면 **Enter**를 다시 눌러 새 코드를 생성하세요.
+
+### 2. POBLE POS에서 단말기 페어링
+
+- **Settings \> Payment Settings \> Linkly**로 이동하세요.
+- **Pair Linkly Terminal**을 켜세요.
+- **Username**, **Password**와 단말기에서 생성한 **Pairing Code**를 입력하세요.
+- **Pair**를 선택해 설정을 완료하세요.
+
+---
+
+## 단말기 다시 페어링하기
+
+다음과 같은 경우 단말기를 다시 페어링해야 합니다.
+
+- Linkly 계정 로그인 정보가 변경된 경우
+- 단말기를 다른 POS 기기에 연결하는 경우
+
+### 1. 초기화 후 새 페어링 코드 생성
+
+- 단말기에서 **Func**를 누른 뒤 **8880**을 입력하세요.
+- 단말기에 PIN Pad 페어링 코드 생성 안내가 표시됩니다.
+- **Enter**를 눌러 새 6자리 페어링 코드를 생성하세요.
+
+### 2. POBLE POS에서 다시 페어링
+
+- **Settings \> Payment Settings \> Linkly**로 이동하세요.
+- **Pair Linkly Terminal**을 켜세요.
+- **Username**, **Password**, **Pairing Code**를 입력하세요.
+- **Pair**를 선택해 단말기를 다시 연결하세요.
+
+---

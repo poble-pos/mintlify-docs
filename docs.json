@@ -9,108 +9,330 @@
   },
   "favicon": "/icon.png",
   "navigation": {
-    "groups": [
+    "languages": [
       {
-        "group": "Welcome",
-        "pages": [
-          "poble-manual/index"
-        ]
-      },
-      {
-        "group": "Getting Started",
-        "pages": [
-          "poble-manual/getting-started/overview",
-          "poble-manual/getting-started/create-your-poble-account",
-          "poble-manual/getting-started/set-up-your-store",
-          "poble-manual/getting-started/choose-your-subscription-plan",
-          "poble-manual/getting-started/customise-with-add-ons",
-          "poble-manual/getting-started/enter-payment-details-start-trial"
-        ]
-      },
-      {
-        "group": "Company Settings",
-        "pages": [
-          "poble-manual/company-settings/overview",
-          "poble-manual/company-settings/manage-stores",
-          "poble-manual/company-settings/manage-admin-profiles",
-          "poble-manual/company-settings/change-admin-pin-code",
-          "poble-manual/company-settings/add-admins-manage-employees",
-          "poble-manual/company-settings/manage-permissions",
-          "poble-manual/company-settings/set-role-permissions",
-          "poble-manual/company-settings/add-your-logo-banner",
-          "poble-manual/company-settings/set-up-stripe-online-payments",
-          "poble-manual/company-settings/update-company-details"
-        ]
-      },
-      {
-        "group": "Store Settings",
-        "pages": [
-          "poble-manual/store-settings/overview",
-          "poble-manual/store-settings/business-hours",
-          "poble-manual/store-settings/business-hours-message",
-          "poble-manual/store-settings/deactivate-store"
-        ]
-      },
-      {
-        "group": "Menu Management",
-        "pages": [
-          "poble-manual/menu-management/overview",
+        "language": "en",
+        "default": true,
+        "groups": [
           {
-            "group": "Backoffice — Company",
+            "group": "Welcome",
             "pages": [
-              "poble-manual/menu-management/company/access-menu-settings",
-              "poble-manual/menu-management/company/create-categories",
-              "poble-manual/menu-management/company/manage-items",
-              "poble-manual/menu-management/company/create-options"
+              "poble-manual/index"
             ]
           },
           {
-            "group": "Backoffice — Store & Franchise",
+            "group": "Getting Started",
             "pages": [
-              "poble-manual/menu-management/store/access-menu",
-              "poble-manual/menu-management/store/create-categories",
-              "poble-manual/menu-management/store/manage-items"
+              "poble-manual/getting-started/overview",
+              "poble-manual/getting-started/create-your-poble-account",
+              "poble-manual/getting-started/set-up-your-store",
+              "poble-manual/getting-started/choose-your-subscription-plan",
+              "poble-manual/getting-started/customise-with-add-ons",
+              "poble-manual/getting-started/enter-payment-details-start-trial"
             ]
           },
           {
-            "group": "POS Device",
+            "group": "Company Settings",
             "pages": [
-              "poble-manual/menu-management/pos/open-menu-management",
-              "poble-manual/menu-management/pos/create-categories",
-              "poble-manual/menu-management/pos/manage-items",
-              "poble-manual/menu-management/pos/manage-options"
+              "poble-manual/company-settings/overview",
+              "poble-manual/company-settings/manage-stores",
+              "poble-manual/company-settings/manage-admin-profiles",
+              "poble-manual/company-settings/change-admin-pin-code",
+              "poble-manual/company-settings/add-admins-manage-employees",
+              "poble-manual/company-settings/manage-permissions",
+              "poble-manual/company-settings/set-role-permissions",
+              "poble-manual/company-settings/add-your-logo-banner",
+              "poble-manual/company-settings/set-up-stripe-online-payments",
+              "poble-manual/company-settings/update-company-details"
             ]
           },
           {
-            "group": "Menu Configuration",
+            "group": "Store Settings",
             "pages": [
-              "poble-manual/menu-management/configuration/option-mapping",
-              "poble-manual/menu-management/configuration/printer-mapping",
-              "poble-manual/menu-management/configuration/prepaid-setup",
-              "poble-manual/menu-management/configuration/menu-layout",
-              "poble-manual/menu-management/configuration/discount-settings"
+              "poble-manual/store-settings/overview",
+              "poble-manual/store-settings/business-hours",
+              "poble-manual/store-settings/business-hours-message",
+              "poble-manual/store-settings/deactivate-store"
+            ]
+          },
+          {
+            "group": "Menu Management",
+            "pages": [
+              "poble-manual/menu-management/overview",
+              {
+                "group": "Backoffice — Company",
+                "pages": [
+                  "poble-manual/menu-management/company/access-menu-settings",
+                  "poble-manual/menu-management/company/create-categories",
+                  "poble-manual/menu-management/company/manage-items",
+                  "poble-manual/menu-management/company/create-options"
+                ]
+              },
+              {
+                "group": "Backoffice — Store & Franchise",
+                "pages": [
+                  "poble-manual/menu-management/store/access-menu",
+                  "poble-manual/menu-management/store/create-categories",
+                  "poble-manual/menu-management/store/manage-items"
+                ]
+              },
+              {
+                "group": "POS Device",
+                "pages": [
+                  "poble-manual/menu-management/pos/open-menu-management",
+                  "poble-manual/menu-management/pos/create-categories",
+                  "poble-manual/menu-management/pos/manage-items",
+                  "poble-manual/menu-management/pos/manage-options"
+                ]
+              },
+              {
+                "group": "Menu Configuration",
+                "pages": [
+                  "poble-manual/menu-management/configuration/option-mapping",
+                  "poble-manual/menu-management/configuration/printer-mapping",
+                  "poble-manual/menu-management/configuration/prepaid-setup",
+                  "poble-manual/menu-management/configuration/menu-layout",
+                  "poble-manual/menu-management/configuration/discount-settings"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Sales & Payments",
+            "pages": [
+              "poble-manual/sales-payments/overview",
+              "poble-manual/sales-payments/start-sales",
+              "poble-manual/sales-payments/sales-screen",
+              "poble-manual/sales-payments/select-item-options",
+              "poble-manual/sales-payments/change-quantity-void",
+              "poble-manual/sales-payments/item-discounts-notes",
+              "poble-manual/sales-payments/checkout-payment",
+              "poble-manual/sales-payments/cancel-order"
+            ]
+          },
+          {
+            "group": "Integrations",
+            "pages": [
+              "integrations/tyro",
+              "integrations/linkly"
             ]
           }
         ]
       },
       {
-        "group": "Sales & Payments",
-        "pages": [
-          "poble-manual/sales-payments/overview",
-          "poble-manual/sales-payments/start-sales",
-          "poble-manual/sales-payments/sales-screen",
-          "poble-manual/sales-payments/select-item-options",
-          "poble-manual/sales-payments/change-quantity-void",
-          "poble-manual/sales-payments/item-discounts-notes",
-          "poble-manual/sales-payments/checkout-payment",
-          "poble-manual/sales-payments/cancel-order"
+        "language": "ko",
+        "groups": [
+          {
+            "group": "안내",
+            "pages": [
+              "ko/poble-manual/index"
+            ]
+          },
+          {
+            "group": "시작하기",
+            "pages": [
+              "ko/poble-manual/getting-started/overview",
+              "ko/poble-manual/getting-started/create-your-poble-account",
+              "ko/poble-manual/getting-started/set-up-your-store",
+              "ko/poble-manual/getting-started/choose-your-subscription-plan",
+              "ko/poble-manual/getting-started/customise-with-add-ons",
+              "ko/poble-manual/getting-started/enter-payment-details-start-trial"
+            ]
+          },
+          {
+            "group": "회사 설정",
+            "pages": [
+              "ko/poble-manual/company-settings/overview",
+              "ko/poble-manual/company-settings/manage-stores",
+              "ko/poble-manual/company-settings/manage-admin-profiles",
+              "ko/poble-manual/company-settings/change-admin-pin-code",
+              "ko/poble-manual/company-settings/add-admins-manage-employees",
+              "ko/poble-manual/company-settings/manage-permissions",
+              "ko/poble-manual/company-settings/set-role-permissions",
+              "ko/poble-manual/company-settings/add-your-logo-banner",
+              "ko/poble-manual/company-settings/set-up-stripe-online-payments",
+              "ko/poble-manual/company-settings/update-company-details"
+            ]
+          },
+          {
+            "group": "매장 설정",
+            "pages": [
+              "ko/poble-manual/store-settings/overview",
+              "ko/poble-manual/store-settings/business-hours",
+              "ko/poble-manual/store-settings/business-hours-message",
+              "ko/poble-manual/store-settings/deactivate-store"
+            ]
+          },
+          {
+            "group": "메뉴 관리",
+            "pages": [
+              "ko/poble-manual/menu-management/overview",
+              {
+                "group": "관리 화면 — 회사",
+                "pages": [
+                  "ko/poble-manual/menu-management/company/access-menu-settings",
+                  "ko/poble-manual/menu-management/company/create-categories",
+                  "ko/poble-manual/menu-management/company/manage-items",
+                  "ko/poble-manual/menu-management/company/create-options"
+                ]
+              },
+              {
+                "group": "관리 화면 — 매장 및 가맹점",
+                "pages": [
+                  "ko/poble-manual/menu-management/store/access-menu",
+                  "ko/poble-manual/menu-management/store/create-categories",
+                  "ko/poble-manual/menu-management/store/manage-items"
+                ]
+              },
+              {
+                "group": "POS 기기",
+                "pages": [
+                  "ko/poble-manual/menu-management/pos/open-menu-management",
+                  "ko/poble-manual/menu-management/pos/create-categories",
+                  "ko/poble-manual/menu-management/pos/manage-items",
+                  "ko/poble-manual/menu-management/pos/manage-options"
+                ]
+              },
+              {
+                "group": "메뉴 구성",
+                "pages": [
+                  "ko/poble-manual/menu-management/configuration/option-mapping",
+                  "ko/poble-manual/menu-management/configuration/printer-mapping",
+                  "ko/poble-manual/menu-management/configuration/prepaid-setup",
+                  "ko/poble-manual/menu-management/configuration/menu-layout",
+                  "ko/poble-manual/menu-management/configuration/discount-settings"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "판매 및 결제",
+            "pages": [
+              "ko/poble-manual/sales-payments/overview",
+              "ko/poble-manual/sales-payments/start-sales",
+              "ko/poble-manual/sales-payments/sales-screen",
+              "ko/poble-manual/sales-payments/select-item-options",
+              "ko/poble-manual/sales-payments/change-quantity-void",
+              "ko/poble-manual/sales-payments/item-discounts-notes",
+              "ko/poble-manual/sales-payments/checkout-payment",
+              "ko/poble-manual/sales-payments/cancel-order"
+            ]
+          },
+          {
+            "group": "결제 단말기 연동",
+            "pages": [
+              "ko/integrations/tyro",
+              "ko/integrations/linkly"
+            ]
+          }
         ]
       },
       {
-        "group": "Integrations",
-        "pages": [
-          "integrations/tyro",
-          "integrations/linkly"
+        "language": "zh",
+        "groups": [
+          {
+            "group": "欢迎",
+            "pages": [
+              "zh/poble-manual/index"
+            ]
+          },
+          {
+            "group": "开始使用",
+            "pages": [
+              "zh/poble-manual/getting-started/overview",
+              "zh/poble-manual/getting-started/create-your-poble-account",
+              "zh/poble-manual/getting-started/set-up-your-store",
+              "zh/poble-manual/getting-started/choose-your-subscription-plan",
+              "zh/poble-manual/getting-started/customise-with-add-ons",
+              "zh/poble-manual/getting-started/enter-payment-details-start-trial"
+            ]
+          },
+          {
+            "group": "公司设置",
+            "pages": [
+              "zh/poble-manual/company-settings/overview",
+              "zh/poble-manual/company-settings/manage-stores",
+              "zh/poble-manual/company-settings/manage-admin-profiles",
+              "zh/poble-manual/company-settings/change-admin-pin-code",
+              "zh/poble-manual/company-settings/add-admins-manage-employees",
+              "zh/poble-manual/company-settings/manage-permissions",
+              "zh/poble-manual/company-settings/set-role-permissions",
+              "zh/poble-manual/company-settings/add-your-logo-banner",
+              "zh/poble-manual/company-settings/set-up-stripe-online-payments",
+              "zh/poble-manual/company-settings/update-company-details"
+            ]
+          },
+          {
+            "group": "门店设置",
+            "pages": [
+              "zh/poble-manual/store-settings/overview",
+              "zh/poble-manual/store-settings/business-hours",
+              "zh/poble-manual/store-settings/business-hours-message",
+              "zh/poble-manual/store-settings/deactivate-store"
+            ]
+          },
+          {
+            "group": "菜单管理",
+            "pages": [
+              "zh/poble-manual/menu-management/overview",
+              {
+                "group": "管理后台 — 公司",
+                "pages": [
+                  "zh/poble-manual/menu-management/company/access-menu-settings",
+                  "zh/poble-manual/menu-management/company/create-categories",
+                  "zh/poble-manual/menu-management/company/manage-items",
+                  "zh/poble-manual/menu-management/company/create-options"
+                ]
+              },
+              {
+                "group": "管理后台 — 门店与加盟店",
+                "pages": [
+                  "zh/poble-manual/menu-management/store/access-menu",
+                  "zh/poble-manual/menu-management/store/create-categories",
+                  "zh/poble-manual/menu-management/store/manage-items"
+                ]
+              },
+              {
+                "group": "POS 设备",
+                "pages": [
+                  "zh/poble-manual/menu-management/pos/open-menu-management",
+                  "zh/poble-manual/menu-management/pos/create-categories",
+                  "zh/poble-manual/menu-management/pos/manage-items",
+                  "zh/poble-manual/menu-management/pos/manage-options"
+                ]
+              },
+              {
+                "group": "菜单配置",
+                "pages": [
+                  "zh/poble-manual/menu-management/configuration/option-mapping",
+                  "zh/poble-manual/menu-management/configuration/printer-mapping",
+                  "zh/poble-manual/menu-management/configuration/prepaid-setup",
+                  "zh/poble-manual/menu-management/configuration/menu-layout",
+                  "zh/poble-manual/menu-management/configuration/discount-settings"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "销售与付款",
+            "pages": [
+              "zh/poble-manual/sales-payments/overview",
+              "zh/poble-manual/sales-payments/start-sales",
+              "zh/poble-manual/sales-payments/sales-screen",
+              "zh/poble-manual/sales-payments/select-item-options",
+              "zh/poble-manual/sales-payments/change-quantity-void",
+              "zh/poble-manual/sales-payments/item-discounts-notes",
+              "zh/poble-manual/sales-payments/checkout-payment",
+              "zh/poble-manual/sales-payments/cancel-order"
+            ]
+          },
+          {
+            "group": "支付终端集成",
+            "pages": [
+              "zh/integrations/tyro",
+              "zh/integrations/linkly"
+            ]
+          }
         ]
       }
     ]
@@ -119,6 +341,21 @@
     "light": "/logo/logo.png",
     "dark": "/logo/logo.png"
   },
-  "navbar": {},
+  "navbar": {
+    "links": [
+      {
+        "label": "English",
+        "href": "/poble-manual/index"
+      },
+      {
+        "label": "한국어",
+        "href": "/ko/poble-manual/index"
+      },
+      {
+        "label": "简体中文",
+        "href": "/zh/poble-manual/index"
+      }
+    ]
+  },
   "footer": {}
 }
