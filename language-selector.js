@@ -32,6 +32,17 @@
       label.append(text, select);
       document.body.appendChild(label);
     }
+    const picker = select.parentElement;
+    const search = document.getElementById('search-bar-entry');
+    const desktop = window.matchMedia('(min-width: 1024px)').matches;
+    if (desktop && search?.parentElement?.parentElement) {
+      const slot = search.parentElement;
+      if (picker.parentElement !== slot.parentElement) slot.before(picker);
+      picker.dataset.placement = 'sidebar';
+    } else {
+      if (picker.parentElement !== document.body) document.body.appendChild(picker);
+      picker.dataset.placement = 'mobile';
+    }
     const language = currentLanguage();
     if (select.value !== language) select.value = language;
   }
@@ -46,6 +57,7 @@
     mount();
     new MutationObserver(refresh).observe(document.body, {childList: true, subtree: true});
     window.addEventListener('popstate', refresh);
+    window.addEventListener('resize', refresh);
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start, {once: true});
   else start();
