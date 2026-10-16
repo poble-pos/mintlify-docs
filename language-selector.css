@@ -2,6 +2,11 @@
   display: block;
   width: 100%;
 }
+#poble-language-picker[data-placement="sidebar"] {
+  flex-shrink: 0;
+  padding: 14px 28px 12px;
+  border-bottom: 1px solid #d4b76e55;
+}
 .poble-language-label {
   display: block;
   margin-bottom: 6px;
