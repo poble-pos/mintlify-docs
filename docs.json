@@ -342,20 +342,7 @@
     "dark": "/logo/logo.png"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "English",
-        "href": "/poble-manual/index"
-      },
-      {
-        "label": "한국어",
-        "href": "/ko/poble-manual/index"
-      },
-      {
-        "label": "简体中文",
-        "href": "/zh/poble-manual/index"
-      }
-    ]
+    "links": []
   },
   "footer": {}
 }

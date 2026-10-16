@@ -1,0 +1,42 @@
+#poble-language-picker {
+  position: fixed;
+  top: 12px;
+  right: 24px;
+  z-index: 45;
+  display: block;
+}
+.poble-language-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+#poble-language-select {
+  appearance: auto;
+  min-width: 126px;
+  max-width: 160px;
+  height: 38px;
+  padding: 6px 12px;
+  border: 1px solid #d4b76e;
+  border-radius: 8px;
+  background: #fffdf6;
+  color: #352b17;
+  font: 500 14px/1.4 system-ui, sans-serif;
+  box-shadow: 0 2px 8px #00000012;
+  cursor: pointer;
+}
+.dark #poble-language-select {
+  background: #211c13;
+  color: #f7e7bc;
+  border-color: #705829;
+}
+#poble-language-select:focus-visible {
+  outline: 2px solid #b77900;
+  outline-offset: 3px;
+}
+@media (max-width: 1023px) {
+  #poble-language-picker { top: 10px; right: 64px; }
+  #poble-language-select { min-width: 112px; height: 34px; }
+}

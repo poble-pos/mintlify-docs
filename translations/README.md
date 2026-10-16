@@ -1,6 +1,6 @@
 # POBLE translations
 
-English source pages remain at their original URLs. Korean translations use ko/ and Simplified Chinese translations use zh/, with matching paths. docs.json defines all three language menus and persistent top navigation language links.
+English source pages remain at their original URLs. Korean translations use ko/ and Simplified Chinese translations use zh/, with matching paths. docs.json defines all three language menus and a fixed top-right language selector in language-selector.js and language-selector.css.
 
 Translate instructions, page titles, descriptions, navigation labels, captions and alternative text. Preserve the English text of actual POS controls so readers can find them on screen. All versions reuse the original images. Keep numeric values, terminal pairing codes and payment examples unchanged.
 
