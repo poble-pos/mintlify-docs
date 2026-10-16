@@ -94,6 +94,19 @@
         ]
       },
       {
+        "group": "Sales & Payments",
+        "pages": [
+          "poble-manual/sales-payments/overview",
+          "poble-manual/sales-payments/start-sales",
+          "poble-manual/sales-payments/sales-screen",
+          "poble-manual/sales-payments/select-item-options",
+          "poble-manual/sales-payments/change-quantity-void",
+          "poble-manual/sales-payments/item-discounts-notes",
+          "poble-manual/sales-payments/checkout-payment",
+          "poble-manual/sales-payments/cancel-order"
+        ]
+      },
+      {
         "group": "Integrations",
         "pages": [
           "integrations/tyro",
